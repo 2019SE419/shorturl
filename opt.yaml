@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: maginx
-        image: macoredroid/nginx:9.5
+        image: macoredroid/nginx:14.7
         resources:
           limits:
             cpu: 500m
